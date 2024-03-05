@@ -1,2 +1,2 @@
-# JavaScriptRJ
-Repositorio del curso JavaScript de CoderHouse
+# Reading Journal 📚
+Proyecto en JavaScript para el curso CoderHouse.
